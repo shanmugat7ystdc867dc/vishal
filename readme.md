@@ -87,5 +87,4 @@ The project uses a Deep Learning model built with TensorFlow/Keras for emotion c
 ## 👩‍💻 Author
 Shanmuga Priya
 
-## 📜 License
-This project is developed for educational and academic purposes.`
+sdfghjkl
